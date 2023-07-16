@@ -26,6 +26,10 @@
     padding-left: 10%;
 }
 
+li{
+  list-style: none;
+  cursor: pointer;
+}
 
 .button-nav{
     background-color: rgb(255, 103, 2) !important;

@@ -11,6 +11,7 @@ import SectionSix from '../components/sectionSix/SectionSix';
 import SectionSeven from '../components/sectionSeven/SectionSeven';
 import SectionEight from '../components/sectionEight/SectionEight';
 import SectionNine from '../components/sectionNine/SectionNine';
+import Footer from '../components/footer/Footer';
 
 
 export default function MainPage(props) {
@@ -26,6 +27,7 @@ export default function MainPage(props) {
     <SectionSeven/>
     <SectionEight/>
     <SectionNine/>
+    <Footer/>
     </>
     
   )
