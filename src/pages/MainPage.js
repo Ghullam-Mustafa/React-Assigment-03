@@ -6,6 +6,7 @@ import SectionOne from '../components/sectionOne/SectionOne';
 import SectionTwo from '../components/sectionTwo/SectionTwo';
 import SectionThree from '../components/sectionThree/SectionThree';
 import SectionFour from '../components/sectionFour/SectionFour';
+import SectionFive from '../components/sectionFive/SectionFive';
 
 
 export default function MainPage(props) {
@@ -16,6 +17,7 @@ export default function MainPage(props) {
     <SectionTwo/>
     <SectionThree/>
     <SectionFour/>
+    <SectionFive/>
     </>
     
   )
