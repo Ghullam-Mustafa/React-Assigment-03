@@ -8,6 +8,7 @@ import SectionThree from '../components/sectionThree/SectionThree';
 import SectionFour from '../components/sectionFour/SectionFour';
 import SectionFive from '../components/sectionFive/SectionFive';
 import SectionSix from '../components/sectionSix/SectionSix';
+import SectionSeven from '../components/sectionSeven/SectionSeven';
 import SectionEight from '../components/sectionEight/SectionEight';
 
 
@@ -21,6 +22,7 @@ export default function MainPage(props) {
     <SectionFour/>
     <SectionFive/>
     <SectionSix/>
+    <SectionSeven/>
     <SectionEight/>
     </>
     
